@@ -1,0 +1,12 @@
+{
+	"name": "SelfHosted-IR",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/b9d61b8d-48c1-4242-961d-c66bed96dcc5/resourcegroups/rg_demo/providers/Microsoft.DataFactory/factories/dfADFDemoRaks/integrationruntimes/SelfHosted-IR-Ofc",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
